@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Seu Nome]
+### 👋 Hi, I'm Kevin
 
 **Backend Software Engineer** · Rio de Janeiro, Brazil
 
@@ -37,7 +37,7 @@ Currently working on a multi-tenant SaaS hub that integrates retail sellers with
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-HANDLE)
-· your@email.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinmelo-dev)
+· kevinmelo.dev@gmail.com
 
 *Open to fully remote backend opportunities with international teams.*
